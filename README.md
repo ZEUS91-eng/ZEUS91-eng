@@ -24,14 +24,14 @@ Every app below was built end to end by me: architecture, UI, backend, monetizat
 
 ## 🛠️ What I Work With
 
-**Languages:** Kotlin, Java
-**UI:** Jetpack Compose, XML Views, Material Design 3
-**Architecture:** MVVM, Hilt, Coroutines, Navigation Component
-**Data:** Room (SQLite), Firebase Firestore, offline-first design
-**Backend & Cloud:** Firebase Auth, Cloud Functions, Remote Config
-**Device & ML:** ML Kit (barcode, document scanning, OCR), MediaProjection, Bluetooth/thermal printing
-**Monetization:** Google Play Billing (in-app purchases), AdMob
-**Release:** Play Console, app signing, R8 optimization, privacy policies & Data Safety compliance
+- **Languages:** Kotlin, Java
+- **UI:** Jetpack Compose, XML Views, Material Design 3
+- **Architecture:** MVVM, Hilt, Coroutines, Navigation Component
+- **Data:** Room (SQLite), Firebase Firestore, offline-first design
+- **Backend & Cloud:** Firebase Auth, Cloud Functions, Remote Config
+- **Device & ML:** ML Kit (barcode, document scanning, OCR), MediaProjection, Bluetooth/thermal printing
+- **Monetization:** Google Play Billing (in-app purchases), AdMob
+- **Release:** Play Console, app signing, R8 optimization, privacy policies & Data Safety compliance
 
 ---
 
