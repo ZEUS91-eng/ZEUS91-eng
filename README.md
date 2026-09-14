@@ -1,11 +1,11 @@
 # Hi, I'm Muhammad Umer 👋
 
-**Freelance Android Developer · Founder of [The Zeus Labs](https://play.google.com/store/apps/dev?id=7712658161971022625)**
+**Freelance Android & Python Developer · Founder of [The Zeus Labs](https://play.google.com/store/apps/dev?id=7712658161971022625)**
 
-I design, build and publish complete Android apps on my own, from the first screen to the Play Store listing.
-Every app below was built end to end by me: architecture, UI, backend, monetization, store release and privacy compliance.
+I build complete products on my own: **Android apps** from the first screen to the Play Store listing, and **Python desktop tools & AI automation** that save people hours of manual work.
+Everything below was built end to end by me.
 
-📌 **Open for freelance projects.** If you need an Android app built, finished or fixed, let's talk.
+📌 **Open for freelance projects.** If you need an app, a tool or an automation built, finished or fixed, let's talk.
 
 ---
 
@@ -22,8 +22,20 @@ Every app below was built end to end by me: architecture, UI, backend, monetizat
 
 ---
 
+## 🐍 Python, AI & Automation
+
+| Project | What it does | Built with |
+|---|---|---|
+| **[Zeus Video Doctor](https://github.com/ZEUS91-eng/zeus-video-doctor)** | GPU-accelerated video & audio enhancer: denoise, sharpen, dialogue cleanup, NVENC encoding | Python · FFmpeg · CUDA/NVENC · DeepFilterNet (AI) · CustomTkinter |
+| **[AI Shorts Generator](https://github.com/ZEUS91-eng/ai-shorts-generator)** | One topic in, a captioned vertical short video out | Python · OpenAI / Ollama · Whisper · Edge-TTS · FFmpeg |
+| **[MT5 Quant Trading Engine](https://github.com/ZEUS91-eng/mt5-trading-engine)** | Algorithmic trading engine with dual strategy engines, layered risk management and adaptive exits | Python · MetaTrader 5 API · pandas · NumPy · SQLite |
+| **[ElevenLabs Batch TTS](https://github.com/ZEUS91-eng/elevenlabs-batch-tts)** | Batch-converts JSON scripts into MP3 voiceovers | Python · ElevenLabs API · CustomTkinter |
+
+---
+
 ## 🛠️ What I Work With
 
+**Android**
 - **Languages:** Kotlin, Java
 - **UI:** Jetpack Compose, XML Views, Material Design 3
 - **Architecture:** MVVM, Hilt, Coroutines, Navigation Component
@@ -32,6 +44,12 @@ Every app below was built end to end by me: architecture, UI, backend, monetizat
 - **Device & ML:** ML Kit (barcode, document scanning, OCR), MediaProjection, Bluetooth/thermal printing
 - **Monetization:** Google Play Billing (in-app purchases), AdMob
 - **Release:** Play Console, app signing, R8 optimization, privacy policies & Data Safety compliance
+
+**Python & AI**
+- **Desktop apps:** CustomTkinter / Tkinter GUIs with background processing
+- **AI & LLMs:** OpenAI API, Ollama (local LLMs), Whisper, ElevenLabs, Edge-TTS, DeepFilterNet
+- **Media:** FFmpeg filter graphs, NVENC/CUDA encoding, audio cleanup
+- **Data & APIs:** pandas, NumPy, SQLite, REST APIs, MetaTrader 5 API
 
 ---
 
@@ -43,6 +61,10 @@ Every app below was built end to end by me: architecture, UI, backend, monetizat
 - Firebase integration: login, cloud sync, real-time data
 - Scanning, camera and ML Kit features
 - Publishing to Play Store, including policy and Data Safety setup
+- Python desktop tools with a clean GUI for your workflow
+- AI automation: content pipelines, text-to-speech, transcription, LLM integrations
+- Video/audio processing tools built on FFmpeg
+- Trading bots and data tools (MetaTrader 5, APIs)
 
 ---
 
