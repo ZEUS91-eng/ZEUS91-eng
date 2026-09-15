@@ -75,4 +75,4 @@ Everything below was built end to end by me.
 [![Google Play](https://img.shields.io/badge/Google%20Play-The%20Zeus%20Labs-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=7712658161971022625)
 [![Email](https://img.shields.io/badge/Email-contact.zeuslabs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.zeuslabs@gmail.com)
 
-📍 Rawalpindi, Pakistan · Working with clients worldwide
+📍 Islamabad, Pakistan · Working with clients worldwide
