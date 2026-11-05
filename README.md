@@ -18,7 +18,7 @@ Everything below was built end to end by me.
 | **[Doc Scanner](https://play.google.com/store/apps/details?id=com.thezeuslabs.docscanner)** | Scan documents to PDF with text recognition (OCR) | Java · ML Kit Document Scanner · ML Kit Text Recognition | ✅ Live on Google Play |
 | **[Pehlwan](https://play.google.com/store/apps/details?id=com.thezeuslabs.pehlwan)** | Fitness app with workout plans, diet logging, streaks, badges and leagues | Kotlin · Room · Firebase Auth & Firestore · Navigation | ✅ Live on Google Play |
 | **[Tillora](https://play.google.com/store/apps/details?id=com.thezeuslabs.tillora)** | Full Point-of-Sale system: billing, inventory, thermal printing, credit ledger, reports, owner/staff multi-device sync | Kotlin · Room · Firebase (Auth, Firestore, Cloud Functions, Remote Config) · Play Billing | ✅ Live on Google Play |
-| **[Vektor](https://play.google.com/store/apps/details?id=com.thezeuslabs.vektor)** | Arrow-route puzzle game with bent multi-cell paths, swipe controls and a daily puzzle | Kotlin · Jetpack Compose · Play Billing · AdMob | 🚀 Launching on Google Play |
+| **[Vektor](https://play.google.com/store/apps/details?id=com.thezeuslabs.vektor)** | Arrow-route puzzle game with bent multi-cell paths, swipe controls and a daily puzzle | Kotlin · Jetpack Compose · Play Billing · AdMob | ✅ Live on Google Play |
 | **Raylux** | Light & mirror puzzle game: steer coloured beams, mix colours, split light with prisms across 4 illustrated worlds, 120 levels plus endless and daily modes | Kotlin · Jetpack Compose · DataStore · Play Billing · AdMob + UMP | 🧪 Closed testing |
 | **Pegora** | Colour-code deduction puzzle game with hints and a shop | Kotlin · Jetpack Compose · Hilt · Room · Play Billing · AdMob | 🧪 Closed testing |
 
